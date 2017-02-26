@@ -8,7 +8,9 @@
 ###Software utilizzati:
 - Arduino IDE
 - NetBeans IDE
+- Librerie Arduino DHT11
 
 ###Competenze software sviluppate:
 - Implementazione Socket
 - Scrittura su File
+- Utilizzo librerie Arduino
