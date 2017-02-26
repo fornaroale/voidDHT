@@ -1,4 +1,4 @@
-#include <dht.h>		// includo libreria DHT
+#include "dht.h"		// includo libreria DHT
 #define DHT11_PIN 8		// PIN DHT: 8
 dht DHT;			// definisco componente usato (DHT11)
 
