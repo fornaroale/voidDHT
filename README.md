@@ -1,5 +1,6 @@
-# Gruppo: VOID
-## Sistema di rilevamento temperatura e umidità.
+# Gruppo VOID
+##Componenti gruppo: Fornaro (Capo-Gruppo), Marzorati, Della Torre, Zocca
+##Progetto: Sistema di rilevamento temperatura e umidità.
 
 ###Componenti utilizzati:
 - Arduino
