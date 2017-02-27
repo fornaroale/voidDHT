@@ -1,6 +1,6 @@
 ** File JAVA<br />
 
-NB: Il progetto funziona solo con NetBeans (causa problemi di librerie con Eclipse).<br /><br />
+NB: Il progetto funziona solo con NetBeans (causa problemi di librerie con Eclipse). Per provarlo, scaricare il file socketRilevazioni.rar.<br /><br />
 
 Funzionamento:<br />
 1) Client legge valori rilevazione da Arduino.<br />
