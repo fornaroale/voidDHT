@@ -4,9 +4,9 @@
  * @author fornaro_alessandro
  */
 public class Rilevazione implements java.io.Serializable {
-    private float temp;
-    private float hum;
-    
+    private float temp;//variabile temperatura
+    private float hum;//variabile umidità
+    //--------------------COSTRUTTORI DELLA CLASSE
     public Rilevazione(){
         temp=0;
         hum=0;
@@ -16,7 +16,7 @@ public class Rilevazione implements java.io.Serializable {
         this.temp=temp;
         this.hum=hum;
     }
-    
+    //--------------------SET, GET & TO-STRING
     public void setData(float temp, float hum){
         this.temp=temp;
         this.hum=hum;
